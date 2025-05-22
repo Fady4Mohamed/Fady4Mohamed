@@ -18,6 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fady4mohamed&show_icons=true&locale=en&layout=compact" alt="fady4mohamed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fady4mohamed&show_icons=true&locale=en" alt="fady4mohamed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fady4mohamed&" alt="fady4mohamed" /></p>
